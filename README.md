@@ -24,7 +24,7 @@ we need also the requests library.
 
     $ pip install requests
     
-  Quick Start
+ Info 
   ===========
-  Starting with a simple HTML file we’ll guide us to clearly understand how these libraries work and what methods are used to scrap data from an HTML file.
- 
+A bolg was made concernign web scraping in which i've explained how to use beautifulsoup and requests 
+you can join my meduime blog her eon the web scraping <a href = "https://medium.com/@nabilmarzoug49/data-science-web-scraping-with-python-b4b1d7655242">Here</a>
