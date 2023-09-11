@@ -1,4 +1,4 @@
-# Web Scraping Project using Beautiful Soup for Z Library Data
+# Web Scraping Project using Beautiful Soup for gaming data
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@
 - [License](#license)
 
 ## Introduction
-This project aims to scrape data from Z Library, a popular online library that provides access to a vast collection of free eBooks and academic articles. By using Beautiful Soup, a Python library for web scraping, we can extract useful information from the website and store it for further analysis or personal use.
+This project aims to scrape Game names from a popular website, . By using Beautiful Soup, a Python library for web scraping, we can extract useful information from the website and store it for further analysis or personal use.
 
 ## Project Overview
 Web scraping allows us to automate the process of gathering data from websites, saving time and effort in manually collecting information. This project specifically focuses on scraping book information from Z Library, such as book titles, authors, publication dates, genres, and download links.
